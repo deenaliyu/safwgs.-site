@@ -192,6 +192,19 @@ const merchItems: Product[] = [
     accentBg: "bg-accent/10",
     image: "/images/wristband.png",
   },
+  {
+    id: "Orange Walk",
+    emoji: "📿",
+    name: "Orange Walk Mech",
+    price: 20000,
+    description: "Subtle. Symbolic. A daily reminder of the movement.",
+    giftCert: false,
+    category: "merch",
+    color: "from-accent to-orange-500",
+    accent: "text-accent",
+    accentBg: "bg-accent/10",
+    image: "/images/bag.jpeg",
+  }
 ]
 
 const kallabiItems: Product[] = [
@@ -199,14 +212,14 @@ const kallabiItems: Product[] = [
     id: "kallabi-veil-classic",
     emoji: "🧕",
     name: "Kallabi Veil — Classic",
-    price: 20000,
+    price: 8000,
     description: "Inspired by Northern Nigerian women. Strength, dignity, and cultural pride.",
     giftCert: false,
     category: "kallabi",
     color: "from-primary to-accent",
     accent: "text-primary",
     accentBg: "bg-primary/10",
-    image: "/images/bag.jpeg",
+    image: "/images/veil.jpeg",
   }
 ]
 
